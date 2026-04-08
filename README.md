@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Gemini_Generated_Image_hxis6zhxis6zhxis.png" alt="Banner">
+</p>
+
 ## Hi there 👋
 
 <!--
