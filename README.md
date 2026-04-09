@@ -97,4 +97,4 @@ With a degree in **Business Administration** and over **6 years of experience in
 - 📍 Málaga, Spain
 - 📱 (+34) 613 222 017
 - 📧 [milogolivera@gmail.com](mailto:milogolivera@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN_AQUI)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/milagros-olivera-b2aab7246)
